@@ -1,0 +1,210 @@
+.elementor-124 .elementor-element.elementor-element-2b82e62{padding:160px 35px 0px 35px;}.elementor-124 .elementor-element.elementor-element-5e1a3d4 .aux-modern-heading-primary{font-size:93px;font-weight:800;line-height:109px;letter-spacing:2.33px;}.elementor-124 .elementor-element.elementor-element-5e1a3d4 .aux-modern-heading-secondary{font-size:27px;font-weight:400;line-height:45px;max-width:650px;}.elementor-124 .elementor-element.elementor-element-5e1a3d4{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-media img{border-radius:30px 30px 30px 30px !important;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-title a{font-size:37px;font-weight:800;text-decoration:none;line-height:51px;letter-spacing:0.94px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-title{margin-bottom:20px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-info a, .elementor-124 .elementor-element.elementor-element-15393c2 .entry-info{color:rgba(15,15,15,0.70);}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-info, .elementor-124 .elementor-element.elementor-element-15393c2 .entry-info a{font-size:17px;font-weight:600;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:24px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-info{margin-bottom:28px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content{color:rgba(15,15,15,0.80);font-size:20px;font-weight:400;text-decoration:none;line-height:38px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta, .elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta a, .elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta span{font-size:17px;font-weight:600;text-decoration:none;line-height:33px;letter-spacing:1.27px;}.elementor-124 .elementor-element.elementor-element-15393c2 .column-entry{padding:0px 0px 34px 0px;}.elementor-124 .elementor-element.elementor-element-15393c2{text-align:left;animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta .aux-read-more{background-color:#d4d4d4;color:rgba(255,255,255,0);font-size:17px;font-weight:700;text-transform:uppercase;line-height:24px;letter-spacing:1.27px;padding:18px 47px 18px 025px;}.elementor-124 .elementor-element.elementor-element-15393c2 > .elementor-widget-container{padding:10% 0% 7% 0%;}@media(max-width:1024px){.elementor-124 .elementor-element.elementor-element-5e1a3d4 .aux-modern-heading-primary{font-size:61px;margin:0px 0px 0px 0px;}.elementor-124 .elementor-element.elementor-element-5e1a3d4 .aux-modern-heading-secondary{font-size:20px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-title a{font-size:15px;line-height:15px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-info, .elementor-124 .elementor-element.elementor-element-15393c2 .entry-info a{font-size:13px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content{font-size:13px;line-height:25px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta .aux-read-more{font-size:13px;padding:18px 44px 18px 24px;}}@media(max-width:767px){.elementor-124 .elementor-element.elementor-element-5e1a3d4 .aux-modern-heading-primary{font-size:34px;line-height:47px;}.elementor-124 .elementor-element.elementor-element-5e1a3d4 .aux-modern-heading-secondary{font-size:15px;line-height:28px;margin:24px 0px 0px 0px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-title a{font-size:20px;}.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content{font-size:14px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-15393c2 */.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col{
+    border: none;
+    border-radius: 25px;
+    margin-bottom: 144px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-info{
+    position: relative;
+    padding-left: 61px;
+    z-index: 2;
+    
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-info:after{
+    content: "";
+    width: 44px;
+    height: 4px;
+    background-color: rgba(15,15,15,0.50);
+    position: absolute;
+    width: 44px;
+    height: 4px;
+    top:10px;
+    left: 0;
+     z-index: 2;
+     
+}
+
+
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-read-more::after, .elementor-124 .elementor-element.elementor-element-15393c2 .aux-post-nav{
+    content: '\e201';
+    font-family: "auxin-front" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 100px;
+    color: #fff;
+    position: absolute;
+    transition: all 1.2s cubic-bezier(.19,1,.22,1) 70ms;
+    z-index: 2;
+    top: 34%;
+    right: 15px;
+    font-size: 22px;
+}
+
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-read-more{
+    position: relative;
+     z-index: 2;
+}
+
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content p{
+    height: 105px;
+    overflow: hidden;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-info a, .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover  .hentry .entry-title a, .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover  .entry-header .entry-title, .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-content p, .elementor-124 .elementor-element.elementor-element-15393c2:hover .entry-info:after{
+    color: #fff!important;
+    transition: color 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    
+}
+ .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .column-entry a{
+    color: #000;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-info:after{
+    background-color: #fff;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-content, .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .aux-read-more::before, .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .aux-post-nav::after{
+    opacity: 0;
+    transition: all 0.2s cubic-bezier(.19,1,.22,1) 70ms;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content{
+  opacity: 1;
+  transition: all 0.8s cubic-bezier(.19,1,.22,1) 70ms;
+    max-width: 410px;
+     z-index: 5;
+    position: relative;
+ }
+.elementor-124 .elementor-element.elementor-element-15393c2  .entry-header, .elementor-124 .elementor-element.elementor-element-15393c2  .entry-info{
+    transition: transform 1.2s cubic-bezier(.19,1,.22,1) 50ms;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-header{ 
+   transform: translateY(100px);
+   transition: transform 1.2s cubic-bezier(.19,1,.22,1) 70ms;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-info{
+    transform: translateY(115px);
+    transition: transform 1.2s cubic-bezier(.19,1,.22,1) 70ms;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2  .column-entry{ 
+    padding: 56px 0px 18px 0px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2  .aux-widget-recent-posts .aux-match-height .post .aux-after-content{
+    padding: 56px 0px 18px 0px;
+    bottom: -98px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta .aux-read-more{
+    border-radius: 30px;
+    transition: all 0.6s cubic-bezier(.19,1,.22,1) 60ms;
+    
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-meta .aux-read-more{
+    background-color: #ffffff;
+    box-shadow: 0px 25px 34px 7px rgba(0,0,0,0.04);
+    transition: all 1.2s cubic-bezier(.19,1,.22,1) 70ms;
+    
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-widget-recent-posts .aux-grid-table-layout.aux-has-bghover .column-entry a:hover{
+    text-decoration: none;
+}
+@media only screen and (max-width: 1023px) {
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col {
+   padding-right:20px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content p {    
+   height: 79px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-info {
+     transform: translateY(calc(100% + 17px));
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-header  {    
+  transform: translateY(calc(24% + 4px));
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col{
+height: 374px;
+}
+}
+
+@media only screen and (min-width:843px) {
+    .elementor-124 .elementor-element.elementor-element-15393c2 .aux-col{
+    width: calc(34% - 25px);
+    margin-right: 14px;
+}
+}
+@media only screen and (max-width:767px) {
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col{
+      margin-bottom: 50px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-header {
+    transform: translateY(calc(27% + 28px));
+}
+}
+
+@media screen and (max-width: 1467px)  and (min-width: 1024px){
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-content {
+    font-size: 15px;
+    line-height: 32px;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-title a {
+      font-size: 28px;
+    line-height: 51px;
+}
+
+}
+@media screen and (max-width: 1467px) {
+   .elementor-124 .elementor-element.elementor-element-15393c2 .aux-widget-recent-posts .aux-grid-table-layout .aux-col{
+    padding-right: 33px;
+    padding-left: 33px;
+} 
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col{
+    position: relative;
+   
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:after{
+    content:'' ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 25px;
+background-color: #fff;
+z-index: 0;
+
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover:after{
+    transition:all 1.2s cubic-bezier(.19,1,.22,1) 70ms;
+     background: rgb(249, 203, 116);
+    background: linear-gradient(5deg, rgba(249,203,116,0.58502976190476191) 8%, rgba(247,41,220,0.512763) 84%);
+ transition:all 1.2s cubic-bezier(.19,1,.22,1) 70ms;
+    
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-header{
+    z-index: 5;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .entry-meta .readmore a{
+    width: auto;
+    font-size: 0px!important;
+    height: 58px;
+    overflow: hidden;
+    color: transparent;
+    padding: 19px 23px!important;
+    transition: all 0.6s cubic-bezier(.19,1,.22,1) 60ms;
+}
+
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover .entry-meta .readmore a{
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    color: transparent;
+    padding: 18px 47px 18px 025px!important;
+    color: #000!important;
+    z-index: 50;
+    font-size: 17px!important;
+    background-color: #fff!important;
+    transition: all 0.6s cubic-bezier(.19,1,.22,1) 60ms;
+}
+.elementor-124 .elementor-element.elementor-element-15393c2 .aux-col:hover  .aux-read-more::after{
+    color: #000;
+}/* End custom CSS */
